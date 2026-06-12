@@ -1,11 +1,11 @@
-<a href="https://github.com/kavin-debug">
+<a href="https://github.com/KavinamuthanGP">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kavinamuthan%20G%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20PWA%20Developer%20%7C%20Building%20Offline-First%20Web%20Experiences&descAlignY=62&descSize=16" width="100%"/>
 </a>
 
 <div align="center">
 
 
-  <img src="https://img.shields.io/github/followers/kavin-debug?label=Followers&style=flat-square&color=bf91f3&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/KavinamuthanGP?label=Followers&style=flat-square&color=bf91f3&logoColor=white" alt="Followers"/>
 </div>
 
 <br/>
@@ -101,7 +101,7 @@ public class Kavinamuthan {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kavin-debug&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=KavinamuthanGP&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ public class Kavinamuthan {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavin-debug&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinamuthanGP&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 
@@ -151,7 +151,7 @@ public class Kavinamuthan {
 |:--------|:------|:-----------|
 | [**🎓 Collexa**](https://campus-connect-f1f29.web.app) — Campus Event Platform | React · TypeScript · Firebase · Tailwind · Framer Motion | Full-stack PWA with student/admin role-based auth · Offline-first with Service Workers · Real-time event management · SaaS-style dashboard with calendar & team modules |
 | [**💸 SmartExpense**](https://smart-expense-pwa.web.app) — Expense Tracker PWA | React · TypeScript · Node.js · MongoDB · Firebase | Offline-first architecture via Service Workers & Web App Manifest · Secure CRUD + analytics dashboard · Lazy loading & modular design for optimal performance |
-| [**📋 Internlog**]((https://github.com/kavin-debug/internlog)) — Career Tracking PWA | React · Node.js · MongoDB | Career tracking platform for internship logs, skill journals, and progress analytics · Responsive dashboards with application pipelines |
+| [**📋 Internlog**]((https://github.com/KavinamuthanGP/internlog)) — Career Tracking PWA | React · Node.js · MongoDB | Career tracking platform for internship logs, skill journals, and progress analytics · Responsive dashboards with application pipelines |
 
 </div>
 
@@ -200,9 +200,9 @@ public class Kavinamuthan {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavinamuthan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinamuthan-g-p-b699b0291/)
-[![GitHub](https://img.shields.io/badge/GitHub-kavin--debug-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kavin-debug)
+[![GitHub](https://img.shields.io/badge/GitHub-kavin--debug-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KavinamuthanGP)
 [![Email](https://img.shields.io/badge/Email-kavinamuthan1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kavinamuthan1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://github.com/kavin-debug)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://github.com/KavinamuthanGP)
 
 </div>
 
