@@ -5,7 +5,7 @@
 <div align="center">
 
 
-  <img src="https://img.shields.io/github/followers/kavin-debug?label=Followers&style=flat-square&color=bf91f3&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/KavinamuthanGP?label=Followers&style=flat-square&color=bf91f3&logoColor=white" alt="Followers"/>
 </div>
 
 <br/>
